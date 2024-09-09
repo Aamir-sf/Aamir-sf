@@ -17,6 +17,10 @@
    <a href="https://m.facebook.com/profile.php?id=100081815097372">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
+ <a
+  href="https://www.linkedin.com/in/abu-aamir-b6611b258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"alt="LinkedIn Badge"/>
+ </a>
 </div>
 
 ### Languages and Tools:
