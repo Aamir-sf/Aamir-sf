@@ -20,6 +20,6 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,github,git&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,github,git,vscode,js,html,java,replit&perline=5)](https://skillicons.dev)
 
 ![Aamir sf GitHub stats](https://github-readme-stats.vercel.app/api?username=Aamir-sf&show_icons=true&theme=dark) 
