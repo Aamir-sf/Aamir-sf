@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @Aamir-sf
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning.... web development and app development
-- 😄 Pronouns: ...He/Him
+ <h1 align="center">Hi 👋, I'm Aamir-sf</h1>
 
+- 🔭 I’m currently working on Flutter
+- 🌱 I’m currently learning web development 
+- 💬 Ask me anything about Flutter 
+- 😄 My website:
+- ⚡ Fun fact: I'm comming to teen
+  
+### Connect with me:
+<div id="badges">
+  <a href="https://github.com/Aamir-sf">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
+   <a href="https://www.instagram.com/aamir_9967/">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+   <a href="https://m.facebook.com/profile.php?id=100081815097372">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+</div>
 
-<!---
-Aamir-sf/Aamir-sf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,github,git,xd&perline=5)](https://skillicons.dev)
+
+![Aamir sf GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark) 
