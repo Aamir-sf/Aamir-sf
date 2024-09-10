@@ -1,7 +1,37 @@
- <h1 align="center">Hi 👋, I'm</h1>
+<h1 align="center">Hi 👋, I'm</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=5000&color=00b4d8&center=true&vCenter=true&width=200&lines=Aamir-sf" alt="Aamir-sf Typing">
+  <svg width="400" height="100">
+    <text x="10" y="40" font-size="40" fill="transparent" stroke="rgba(0,180,216,0.7)" stroke-width="1" font-family="'Courier New', Courier, monospace">
+      <tspan id="letter1" opacity="0">A</tspan>
+      <tspan id="letter2" opacity="0">a</tspan>
+      <tspan id="letter3" opacity="0">m</tspan>
+      <tspan id="letter4" opacity="0">i</tspan>
+      <tspan id="letter5" opacity="0">r</tspan>
+      <tspan id="letter6" opacity="0">-</tspan>
+      <tspan id="letter7" opacity="0">s</tspan>
+      <tspan id="letter8" opacity="0">f</tspan>
+    </text>
+
+    <style>
+      #letter1 { animation: appear 1s forwards infinite; }
+      #letter2 { animation: appear 1.5s forwards infinite; }
+      #letter3 { animation: appear 2s forwards infinite; }
+      #letter4 { animation: appear 2.5s forwards infinite; }
+      #letter5 { animation: appear 3s forwards infinite; }
+      #letter6 { animation: appear 3.5s forwards infinite; }
+      #letter7 { animation: appear 4s forwards infinite; }
+      #letter8 { animation: appear 4.5s forwards infinite; }
+
+      @keyframes appear {
+        0% { opacity: 0; }
+        50% { opacity: 1; fill: rgba(0,180,216,0.7); }
+        100% { opacity: 0; }
+      }
+    </style>
+  </svg>
 </p>
+
 
 
 - 🔭 I’m currently working on Flutter
