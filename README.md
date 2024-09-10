@@ -1,4 +1,8 @@
- <h1 align="center">Hi 👋, I'm Aamir-sf</h1>
+ <h1 align="center">Hi 👋, I'm</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=5000&color=00b4d8&center=true&vCenter=true&width=200&lines=Aamir-sf" alt="Aamir-sf Typing">
+</p>
+
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning web development 
