@@ -24,6 +24,6 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,github,git,vscode,js,html,css,java,replit&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,github,git,vscode,androidstudio,replit,js,html,css,bootstrap,java&perline=5)](https://skillicons.dev)
 
 ![Aamir sf GitHub stats](https://github-readme-stats.vercel.app/api?username=Aamir-sf&show_icons=true&theme=dark) 
