@@ -21,15 +21,22 @@
 
  
 <div align="center"> 
-  <a href="aamir:sfaamir7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+<div id="badges">
+  <a href="https://github.com/Aamir-sf">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+   <a href="https://www.instagram.com/aamir_9967/">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://Aamir-sf.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+   <a href="https://m.facebook.com/profile.php?id=100081815097372">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
+ <a
+  href="https://www.linkedin.com/in/abu-aamir-b6611b258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"alt="LinkedIn Badge"/>
+ </a>
+</div>
+
 </div>
 
  <hr/>
