@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Flutter**
 
-💬 Ask me about **Flutter, React, Javascript... or anything [here](https://github.com/Aamir-sf/Aamir-sf/issues)**
+💬 Ask me about **Flutter, React, Javascript... or anything [here](https://github.com/Aamir-sf)**
 
 ⚡ Fun fact **I'm comming to Teens**
  </div>
