@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Aamir-sf.Aamir-sf" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aamie+-sf!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aamir+-sf!;" />
 </h1>
 
 <h3 align="center">A passionate programmer  from India In</h3>
@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **a app development**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Flutter**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Aamir-sf/Aamir-sf/issues)**
+💬 Ask me about **Flutter, React, Javascript... or anything [here](https://github.com/Aamir-sf/Aamir-sf/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
