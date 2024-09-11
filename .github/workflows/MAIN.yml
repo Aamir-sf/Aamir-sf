@@ -20,14 +20,9 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-
       - name: Generate Snake GIF and SVG
         run: |
-          python generate_snake.py --username mishmanners --gif-path dist/github-contribution-grid-snake.gif --svg-path dist/github-contribution-grid-snake.svg
+          python generate_snake.py --username Aamir-sf --gif-path dist/github-contribution-grid-snake.gif --svg-path dist/github-contribution-grid-snake.svg
 
       - name: Check Git status
         run: git status
