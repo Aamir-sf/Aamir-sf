@@ -22,7 +22,7 @@ jobs:
 
       - name: Generate Snake GIF and SVG
         run: |
-          python generate_snake.py --username Aamir-sf --gif-path dist/github-contribution-grid-snake.gif --svg-path dist/github-contribution-grid-snake.svg
+          python generate_snake.py --username mishmanners --gif-path dist/github-contribution-grid-snake.gif --svg-path dist/github-contribution-grid-snake.svg
 
       - name: Check Git status
         run: git status
