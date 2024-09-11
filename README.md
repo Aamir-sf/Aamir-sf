@@ -45,7 +45,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,javascript" />
-     <img src="https://skillicons.dev/icons?i=bootstrap,vscode,androidstudio,replit,github,git" /><br>
+     <img src="https://skillicons.dev/icons?i=bootstrap,java,vscode,androidstudio,replit,github,git" /><br>
     
 </div>
 
