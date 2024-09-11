@@ -1,39 +1,73 @@
-<h1 align="center">Hi 👋, I'm</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Aamir-sf.Aamir-sf" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=5000&color=00b4d8&background=FFFFFF00&center=true&vCenter=true&width=300&height=50&lines=Aamir-sf" alt="Aamir-sf Typing SVG">
-</p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aamie+-sf!;" />
+</h1>
 
+<h3 align="center">A passionate programmer  from India In</h3>
 
+<br/>
 
+<div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
 
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Aamir-sf/Aamir-sf/issues)**
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning web development 
-- 💬 Ask me anything about Flutter 
-- 😄 My website: https://aamir-sf.github.io/Profile_Card_Aamir/
-- ⚡ Fun fact: I'm comming to teen
-  
-### Connect with me:
-<div id="badges">
-  <a href="https://github.com/Aamir-sf">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:pedro.sales.muniz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-   <a href="https://www.instagram.com/aamir_9967/">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-   <a href="https://m.facebook.com/profile.php?id=100081815097372">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  <a href="https://Aamir-sf.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
- <a
-  href="https://www.linkedin.com/in/abu-aamir-b6611b258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"alt="LinkedIn Badge"/>
- </a>
 </div>
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,github,git,vscode,androidstudio,replit,js,html,css,bootstrap,java&perline=5)](https://skillicons.dev)
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Aamir-sf&show_icons=true&theme=radical" alt="Aamir's GitHub Stats">
-</p>
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Aamir-sf/Aamir-sf/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-Aamir-sf.vercel.app/?user=Aamir-sf&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-Aamir-sf.vercel.app/api?username=Aamir-sf&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-Aamir-sf.vercel.app/api/top-langs/?username=Aamir-sf&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+
+<br/>
