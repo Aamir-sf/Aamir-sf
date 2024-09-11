@@ -16,12 +16,12 @@
 
 💬 Ask me about **Flutter, React, Javascript... or anything [here](https://github.com/Aamir-sf/Aamir-sf/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
+⚡ Fun fact **I'm comming to Teens**
  </div>
+
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="aamir:sfaamir7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
