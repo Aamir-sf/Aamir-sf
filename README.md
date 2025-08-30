@@ -25,7 +25,7 @@
   <a href="https://github.com/Aamir-sf">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-   <a href="https://www.instagram.com/aamir_9967/">
+   <a href="https://www.instagram.com/aamir9967_/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
    <a href="https://m.facebook.com/profile.php?id=100081815097372">
